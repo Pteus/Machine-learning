@@ -18,10 +18,6 @@ Feel free to browse through the notes. Each file is designed to be a standalone 
 
 This repository is primarily for my personal use, but I welcome suggestions and improvements. If you have any ideas or feedback, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 A big thank you to [DataTalksClub](https://github.com/DataTalksClub) for providing such a valuable learning resource.
